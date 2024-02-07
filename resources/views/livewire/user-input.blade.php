@@ -73,7 +73,8 @@
                 placeholder="Pilih"
                 :options="[
                     ['name' => 'Keluhan',  'id' => 1],
-                    ['name' => 'Saran/Masukan', 'id' => 2],
+                    ['name' => 'Saran Kebersihan', 'id' => 2],
+                    ['name' => 'Saran Pelayanan', 'id' => 3],
                   
                 ]"
                 option-label="name"
