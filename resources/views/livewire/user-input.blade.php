@@ -3,8 +3,8 @@
         <img class=" -ms-2" src="https://pn-negara.go.id/assets/global/images/logo/logo-pn.png" alt="">
     </div>
     <div class=" text-center text-white mb-3">
-        <h1 class="text-4xl font-sans font-extrabold text-centre">SHANTI Care</h1>
-        <h3 class="text-2xl">Jadikan Kami Lebih Baik!</h2>
+        <h1 class="text-4xl font-sans font-extrabold text-centre">MAS GUNALA</h1>
+        <h3 class="text-2xl">(Masukan, Keluhan, dan Saran Pengguna Layanan)</h2>
     </div>
     <div class="w-screen p-1 md:p-2 md:w-1/2 mb-2 bg-white rounded-lg">
         
